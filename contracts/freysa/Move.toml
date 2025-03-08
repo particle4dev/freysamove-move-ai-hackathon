@@ -1,0 +1,18 @@
+[package]
+name = "Freysa"
+version = "1.0.0"
+authors = []
+
+[addresses]
+freysa="_"
+deployer="_"
+pausable="_"
+acl="_"
+
+[dependencies]
+Pausable = { local = "../pausable" }
+Acl = { local = "../acl" }
+AptosFramework = { git = "https://github.com/aptos-labs/aptos-framework.git", subdir = "aptos-framework", rev = "aptos-release-v1.12" }
+AptosTokenObjects = { git = "https://github.com/aptos-labs/aptos-framework.git", subdir = "aptos-token-objects", rev = "aptos-release-v1.12" }
+
+[dev-dependencies]
