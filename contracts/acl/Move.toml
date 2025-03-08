@@ -1,0 +1,12 @@
+[package]
+name = "Acl"
+version = "1.0.0"
+authors = []
+
+[addresses]
+acl = '_'
+
+[dependencies]
+AptosFramework = { git = "https://github.com/aptos-labs/aptos-framework.git", subdir = "aptos-framework", rev = "aptos-release-v1.12" }
+AptosTokenObjects = { git = "https://github.com/aptos-labs/aptos-framework.git", subdir = "aptos-token-objects", rev = "aptos-release-v1.12" }
+
