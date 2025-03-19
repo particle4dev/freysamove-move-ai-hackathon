@@ -14,7 +14,7 @@ Freysa AI Move is a decentralized AI-driven game where users must complete speci
 - **Chapter 2:** *[Convince Avery Ching to say "I love Aptos"](./act-2-i-love-aptos/)*  
   - Users interact with an AI simulation of Avery Ching and try to get it to say *"I love Aptos."*  
 
-## 🛠 **Smart Contract**  
+## 🛠 **[Smart Contract](./contracts/)**  
 
 The **on-chain logic** is implemented in Move, ensuring fairness and transparency. This repository includes:  
 - Smart contract source code  
