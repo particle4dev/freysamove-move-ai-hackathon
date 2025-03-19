@@ -8,10 +8,10 @@ Freysa AI Move is a decentralized AI-driven game where users must complete speci
 
 ## 📜 **Chapters & System Instructions**  
 
-- **Chapter 1:** *[Convince someone to pay](./act-1/)*  
+- **Chapter 1:** *[Convince Freysa AI to pay](./act-1/)*  
   - Users must persuade the AI agent to make a payment.  
 
-- **Chapter 2:** *Convince Avery Ching to say "I love Aptos"*  
+- **Chapter 2:** *[Convince Avery Ching to say "I love Aptos"](./act-2-i-love-aptos/)*  
   - Users interact with an AI simulation of Avery Ching and try to get it to say *"I love Aptos."*  
 
 ## 🛠 **Smart Contract**  
